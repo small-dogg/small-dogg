@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Small-Dogg&fontAlign=66&fontAlignY=40&color=gradient)
+
   <div align=center>
 
 
