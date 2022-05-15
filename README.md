@@ -39,6 +39,7 @@ Hypervisor :
 
 💬 Ask me about ...
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sy920112@naver.com)](mailto:sy920112@naver.com)
+sy920112@gmail.com
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=small-dogg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
