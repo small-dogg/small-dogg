@@ -28,7 +28,7 @@ DevOps :
 
 Cloud Opensource platform :
 <img src="https://img.shields.io/badge/Openstack-yellow?style=flat-square&logo=Openstack&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Cloudstack-yellow?style=flat-square"/></a>
+<img src="https://img.shields.io/badge/Cloudstack-yellow?style=flat-square&logo=Apache CloudStack&logoColor=white"/></a>
 
 Hypervisor :
 <img src="https://img.shields.io/badge/kvm-F05032?style=flat-square&logo=&logoColor=white"/></a>
