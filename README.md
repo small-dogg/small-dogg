@@ -35,7 +35,14 @@ Hypervisor :
 <img src="https://img.shields.io/badge/Xen-F05032?style=flat-square&logo=&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VMware-F05032?style=flat-square&logo=&logoColor=white"/></a>
 </p>
+<!-- 
+elastaicstack, 
+Linux Windows MacOS
+InfluxDB, MongoDB
+haproxy
+Snapshotscheduler
 
+-->
 
 
 💬 Ask me about ...
