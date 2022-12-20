@@ -25,15 +25,6 @@ RDB :
 DevOps : 
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
-
-Cloud Opensource platform :
-<img src="https://img.shields.io/badge/Openstack-yellow?style=flat-square&logo=Openstack&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Cloudstack-yellow?style=flat-square&logo=Apache CloudStack&logoColor=white"/></a>
-
-Hypervisor :
-<img src="https://img.shields.io/badge/kvm-F05032?style=flat-square&logo=&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Xen-F05032?style=flat-square&logo=&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/VMware-F05032?style=flat-square&logo=&logoColor=white"/></a>
 </p>
 
 💬 Ask me about ...
