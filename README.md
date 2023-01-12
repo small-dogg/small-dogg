@@ -32,8 +32,8 @@ DevOps :
 sy920112@gmail.com
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=small-dogg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=small-dogg&layout=compact&theme=radical&count_private=true)
+<!--[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=small-dogg&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=small-dogg&layout=compact&theme=radical&count_private=true) -->
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsmall-dogg)](https://hits.seeyoufarm.com)
   </div>
